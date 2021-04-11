@@ -11,6 +11,7 @@ struct ContentView: View {
     var body: some View {
         Text("Hello, world!")
             .padding()
+        Text("Welcome to my 1st project in 100 days of SwiftUI!")
     }
 }
 
